@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic15\practic15\bin\Debug\practic15.exe.config
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic15\practic15\bin\Debug\practic15.exe
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic15\practic15\bin\Debug\practic15.pdb
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic15\practic15\obj\Debug\practic15.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic15\practic15\obj\Debug\practic15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic15\practic15\obj\Debug\practic15.Form1.resources
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic15\practic15\obj\Debug\practic15.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic15\practic15\obj\Debug\practic15.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic15\practic15\obj\Debug\practic15.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic15\practic15\obj\Debug\practic15.exe
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic15\practic15\obj\Debug\practic15.pdb
